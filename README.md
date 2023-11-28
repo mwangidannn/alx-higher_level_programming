@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-The python
+Python Alx task

@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-# 0-square.py solution by duncan
+# 0-square.py by Duncan Mwangi
+"""Defines a square """
 
-class Square
-""" doing nothing"""
+
+class Square:
+    """Doing  nothing"""
     pass
